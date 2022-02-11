@@ -1,4 +1,4 @@
-#F50057 React Developer
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 <!-- 💻Software Engineer. -->
 - 👋 Hi, I’m @mr-sajib
 - 👀 I’m interested in php,javascript,python...
