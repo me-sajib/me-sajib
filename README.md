@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @mr-sajib
-- 👀 I’m interested in PHP, javascript, Python...
-- 🌱 I’m currently Working as a Front-end Development with React JS ...
-- 💞️ I’m looking to collaborate on new programmer...
-- 📫 How to reach me https://www.facebook.com/sajibsarker.s ...
+### Hi there I'm Mohammad Sajib
+![banner](https://i.ibb.co/X4yp96m/MERN-Stack-Development-and-Consulting-Services.jpg)
+
+
+## I'm MERN Stack Web Developer!
+- 🔭 I’m currently working on MERN Stack Projects
+- 🌱 I’m currently learning MERN Stack Web Development
+- 👯 I’m looking to collaborate on any kind of interesting projects
+- 🥅 2022 Goals: Learn Node.js, Vue.js, MERN Stack Development
+- 📫 How to reach me: me.mrsajib@gmail.com
+- ⚡ I love to explore different programming languages
 
 <!---
 me-sajib/me-sajib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
