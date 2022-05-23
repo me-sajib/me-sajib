@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-![sajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-sajib&theme=dark&show_icons=true)
+![sajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-sajib&theme=react&show_icons=true)
 <!---
 me-sajib/me-sajib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
