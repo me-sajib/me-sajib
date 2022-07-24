@@ -3,9 +3,9 @@
 
 ## I'm a Full Stack Web Developer!
 - 🔭 I’m currently working on MERN Stack Projects
-- 🌱 I’m currently learning MERN Stack Web Development
+- 🌱 I’m currently learning PHP, WordPress Development
 - 👯 I’m looking to collaborate on any kind of interesting projects
-- 🥅 2022 Goals: Learn Node.js, Vue.js, MERN Stack Development
+- 🥅 2022 Goals: Learn Node.js, Vue.js, MERN Stack and PHP development
 - 📫 How to reach me: me.mrsajib@gmail.com
 - ⚡ I love to explore different programming languages
 
@@ -31,8 +31,7 @@
 <br/>
 
 ![sajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-sajib&theme=react&show_icons=true)
-<!-- ![sajib's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=dark&show_icons=true) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=merko&layout=compact" alt="me-sajib's github top languages" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=merko&layout=compact" alt="me-sajib's github top languages" />
 <!---
 me-sajib/me-sajib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
