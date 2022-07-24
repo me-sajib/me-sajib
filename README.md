@@ -1,5 +1,4 @@
 ### Hi there I'm Mohammad Sajib
-![banner](https://i.ibb.co/X4yp96m/MERN-Stack-Development-and-Consulting-Services.jpg)
 
 
 ## I'm MERN Stack Web Developer!
