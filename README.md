@@ -1,7 +1,7 @@
 ### Hi there I'm Mohammad Sajib
 
 
-## I'm MERN Stack Web Developer!
+## I'm a Full Stack Web Developer!
 - 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate on any kind of interesting projects
@@ -31,6 +31,8 @@
 <br/>
 
 ![sajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-sajib&theme=react&show_icons=true)
+![sajib's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=react&show_icons=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpinazmul18&theme=merko&layout=compact" alt="bpinazmul18's github top languages" />
 <!---
 me-sajib/me-sajib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
