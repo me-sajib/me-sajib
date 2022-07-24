@@ -31,8 +31,8 @@
 <br/>
 
 ![sajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-sajib&theme=react&show_icons=true)
-![sajib's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=react&show_icons=true)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpinazmul18&theme=merko&layout=compact" alt="bpinazmul18's github top languages" />
+<!-- ![sajib's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=dark&show_icons=true) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=merko&layout=compact" alt="me-sajib's github top languages" />
 <!---
 me-sajib/me-sajib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
