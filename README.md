@@ -2,7 +2,7 @@
 
 
 ## I'm a Full Stack Web Developer!
-- 🔭 I’m currently working on MERN Stack Projects
+- 🔭 I’m currently working on Pluginbazar Company
 - 🌱 I’m currently learning PHP, WordPress Development
 - 👯 I’m looking to collaborate on any kind of interesting projects
 - 🥅 2022 Goals: Learn Node.js, Vue.js, MERN Stack and PHP development
