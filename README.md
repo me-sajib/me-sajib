@@ -10,7 +10,16 @@
 - ⚡ I love to explore different programming languages
 <br/>
 <br/>
+<!-- work experience section starts here  -->
 
+### 💼 &nbsp; Employment History
+
+| Position            | Institute                                   | Duration            | Location           |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Fronend Developer   | Pluginbazar                                 | Aug 2022 - Running  | Rangpur, Bangladesh|
+
+<br />
+<!-- work experience section ends here  -->
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=merko&layout=compact" alt="me-sajib's github top languages" />
  
