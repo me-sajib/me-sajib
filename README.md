@@ -16,7 +16,7 @@
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Fronend Developer   | Pluginbazar                                 | Aug 2022 - Running  | Rangpur, Bangladesh|
+| Frontend Developer  | Pluginbazar                                 | Aug 2022 - Running  | Rangpur, Bangladesh|
 
 <br />
 <!-- work experience section ends here  -->
