@@ -5,14 +5,14 @@
 <!-- ## I'm a Full Stack Web Developer!
 - 🔭 I’m currently working on Pluginbazar Company
 - 🌱 I’m currently learning PHP, WordPress Development
-- 👯 I’m looking to collaborate on any kind of interesting projects
+- 👯 I’m looking to collaborate on any kind of exciting projects
 - 🥅 2022 Goals: Learn Node.js, Vue.js, MERN Stack and PHP development
 - 📫 How to reach me: me.mrsajib@gmail.com
 - ⚡ I love to explore different programming languages -->
 
 #### Who I am?
 - A software developer based in **[Rangpur](https://en.wikipedia.org/wiki/Rangpur), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 1 years of hands-on experience in **software development and tech consultancy.**
+- Have 2 years of hands-on experience in **software development and tech consultancy.**
 - Developed products for **MedTech, FinTech, Enterprise, and Logistics** business domains.
 - Have built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
@@ -27,18 +27,18 @@
 
 - 👨‍💻 All of my projects are available at [sajibsarker.com]([ashadulmridha.com](https://charming-meringue-5dd908.netlify.app/))
 
-- 💬 Ask me about **Web Api, MERN stack, JavaScript, Next.js, Database**
+- 💬 Ask me about **Web Api, MERN stack, JavaScript, Next.js, PHP, Laravel, Database**
 
-- 📫 How to reach me **me.mrsajib@gmail.com**
+- 📫 How to reach me **me.mrsajib@gmail.com OR sajibsarker.dev@gmail.com OR boonik@sajib.org**
 
-#### What my skill set looks like?
+#### What does my skill set look like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 HTML` • `👨‍🏭 CSS` • `👨‍🔧 JavaScript`
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [React](https://reactjs.org/) • [Next.js](https://nextjs.org/)
   - **🗳 UI toolkits:** • [Bootstap](https://getbootstrap.com/) • [MUI](https://mui.com/) • [Tailwind CSS](https://tailwindcss.com/)
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🧙🏻 JavaScript` • `👨‍🏭 Node.js` • `👨‍🔧 PHP`
+  - **📜 Languages:** • `🧙🏻 JavaScript` • `👨‍🏭 Node.js` • `👨‍🔧 PHP` • `👨‍🔧 Laravel`
   - **🔭 Frameworks:** • [Express.js](https://expressjs.com/) • [Laravel](https://laravel.com/)
   - **💾 Databases:** • [MYSQL](https://www.mysql.com/) • [MongoDB](https://www.mongodb.com/) • [PostgreSQL](https://www.postgresql.org/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
