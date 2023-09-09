@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Web Api, MERN stack, JavaScript, Next.js, PHP, Laravel, Database**
 
-- 📫 How to reach me **me.mrsajib@gmail.com OR sajibsarker.dev@gmail.com OR boonik@sajib.org**
+- 📫 How to reach me **me.mrsajib@gmail.com OR sajibsarker.dev@gmail.com OR sajib@boonik.org**
 
 #### What does my skill set look like?
 - 🖥 **Front-end:** 
