@@ -69,6 +69,7 @@
 
 <br />
 <!-- work experience section ends here  -->
+<p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
@@ -85,7 +86,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
   <br />
-</p>
+</p> 
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&layout=compact" alt="me-sajib's GitHub top languages" /> 
 
- ![Sajib's github stats](https://github-readme-stats.vercel.app/api?username=me-sajib&theme=merko&count_private=true)            <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=merko&layout=compact" alt="me-sajib's github top languages" /> 
-
+<!-- ![Sajib's github stats](https://github-readme-stats.vercel.app/api?username=me-sajib&theme=merko&count_private=true)            -->
