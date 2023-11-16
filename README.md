@@ -87,17 +87,5 @@
   <br />
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/me-sajib/me-sajib.svg" />
-</p>
+ ![Sajib's github stats](https://github-readme-stats.vercel.app/api?username=me-sajib&theme=merko&count_private=true)            <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajib&theme=merko&layout=compact" alt="me-sajib's github top languages" /> 
 
-<!-- ![Sajib's github stats](https://github-readme-stats.vercel.app/api?username=KATT&theme=merko&count_private=true)            <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KATT&theme=merko&layout=compact" alt="me-sajib's github top languages" /> -->
- <!--
-- **🏗️ Code editors:**
-<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
-
--->
