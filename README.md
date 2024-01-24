@@ -13,7 +13,7 @@
 #### Who I am?
 - A software developer based in **[Rangpur](https://en.wikipedia.org/wiki/Rangpur), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 2 years of hands-on experience in **software development and tech consultancy.**
-- Developed products for **MedTech, FinTech, Enterprise, and Logistics** business domains.
+- Developed products for **MedTech, SAAS, Enterprise, and Logistics** business domains.
 - Have built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
