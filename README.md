@@ -3,7 +3,7 @@
 
 
 <!-- ## I'm a Full Stack Web Developer!
-- 🔭 I’m currently working on Pluginbazar Company
+- 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning PHP, WordPress Development
 - 👯 I’m looking to collaborate on any kind of exciting projects
 - 🥅 2023 Goals: Learn Typescript, Vue.js, MERN Stack and PHP development
@@ -17,7 +17,7 @@
 - Have built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **Pluginbazar as a Junior Software Engineer.**
+- 🏢 Working at **Junior Software Engineer.**
 
 - 🛠️ Working on **MERN , Web Application**
 
@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Web Api, MERN stack, JavaScript, Next.js, PHP, Laravel, Database**
 
-- 📫 How to reach me **me.mrsajib@gmail.com OR sajibsarker.dev@gmail.com OR sajib@boonik.org**
+- 📫 How to reach me **me.mrsajib@gmail.com OR sajibsarker.dev@gmail.com**
 
 #### What does my skill set look like?
 - 🖥 **Front-end:** 
@@ -62,11 +62,11 @@
 <!-- work experience section starts here  -->
 
 ### 💼 &nbsp; Employment History
-
+<!--
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Frontend Developer  | Pluginbazar                                 | Aug 2022 - Running  | Rangpur, Bangladesh|
-
+-->
 <br />
 <!-- work experience section ends here  -->
 <p>
