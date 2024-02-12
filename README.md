@@ -60,9 +60,9 @@
 <br/>
 <br/>
 <!-- work experience section starts here  -->
-
-### 💼 &nbsp; Employment History
 <!--
+### 💼 &nbsp; Employment History
+
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Frontend Developer  | Pluginbazar                                 | Aug 2022 - Running  | Rangpur, Bangladesh|
