@@ -11,8 +11,8 @@
 - ⚡ I love to explore different programming languages -->
 
 #### Who I am?
-- A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 3 years of hands-on experience in **software development and tech consultancy.**
+- A software developer based in **[Rangpur](https://en.wikipedia.org/wiki/Rangpur), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have 2 years of hands-on experience in **software development and tech consultancy.**
 - Developed products for **MedTech, SAAS, Enterprise, and Logistics** business domains.
 - Have built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
@@ -63,9 +63,9 @@
 <!--
 ### 💼 &nbsp; Employment History
 
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Frontend Engineer   | Boonik                                      | Aug 2022 - Running  | Rangpur, Bangladesh|
+| Position            | Institute                                   | Duration             | Location           |
+| ------------------- | ------------------------------------------- | -------------------- | ------------------ |
+| Software Engineer   | Pluginbazar                                 | Aug 2022 - July 2024 | Rangpur, Bangladesh|
 -->
 <br />
 <!-- work experience section ends here  -->
